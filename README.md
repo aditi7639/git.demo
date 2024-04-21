@@ -1,2 +1,2 @@
 # git.demo
-this is my first public repository 
+this is my first git public repository 
